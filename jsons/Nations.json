@@ -1,11 +1,11 @@
 [
 {
 		//nations
-		"name": "Babylon",
-		"leaderName": "Nebuchadnezzar II",
-		"adjective": ["Babylonian"],
-		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Scientific",
+		"name": "Connachta",
+		"leaderName": "Roderic O’Connor",
+		"adjective": ["Connachtan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -20,11 +20,11 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [27,53,63],
-		"innerColor": [213,249,255],
-		"favoredReligion": "Islam",
-		"uniqueName": "Ingenuity",
-		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster"],
+		"outerColor": [255,255,255],
+		"innerColor": [13,29,141],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Devoted",
+		"uniques": [""],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
