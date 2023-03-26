@@ -10,10 +10,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
+		"declaringWar": "",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Dia dhuit",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
@@ -24,11 +24,8 @@
 		"innerColor": [13,29,141],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Devoted",
-		"uniques": [""],
-		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
-			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
-			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
-			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+		"uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory, [+1 food] for every [Marsh]"],
+		"cities": ["Galway","Sligo", "Dyflin", "Weisforthe", "Vedrafjord", "Corcach", "Luimneach"],
+        "spyNames": ["Conor, Sean, Oisin, Patrick, Cian"]
 	},
 ]
