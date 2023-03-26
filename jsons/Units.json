@@ -1,0 +1,14 @@
+[
+{
+		"name": "Hobelar",
+		"unitType": "Mounted",
+		"uniqueTo": "Connachta",
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 16,
+		"cost": 100,
+    uniques: ["Can move after attacking"],
+		"upgradesTo": "Cavalry",
+		"attackSound": "horse"
+	}, 
+]
