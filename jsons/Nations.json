@@ -2,7 +2,7 @@
 {
 		//nations
 		"name": "Connachta",
-		"leaderName": "Roderic O’Connor",
+		"leaderName": "Queen Medb",
 		"adjective": ["Connachtan"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
