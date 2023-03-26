@@ -24,7 +24,7 @@
 		"innerColor": [13,29,141],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Devoted",
-		"uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory, [+1 food] for every [Marsh]"],
+		"uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory", "[+1 food] for every [Marsh]", "[+5 Culture, +1 Food] from [Cattle] tiles [in all cities]"],
 		"cities": ["Galway","Sligo", "Dyflin", "Weisforthe", "Vedrafjord", "Corcach", "Luimneach"],
         "spyNames": ["Conor, Sean, Oisin, Patrick, Cian"]
 	},
